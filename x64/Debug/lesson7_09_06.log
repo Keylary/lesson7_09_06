@@ -1,0 +1,6 @@
+﻿  lesson7_09_06.cpp
+D:\Laura_Education\С++troubles\lesson7_09_06\lesson7_09_06.cpp(56,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laura_Education\С++troubles\lesson7_09_06\lesson7_09_06.cpp(105,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laura_Education\С++troubles\lesson7_09_06\lesson7_09_06.cpp(106,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laura_Education\С++troubles\lesson7_09_06\lesson7_09_06.cpp(140,69): warning C4244: return: преобразование "unsigned __int64" в "double", возможна потеря данных
+  lesson7_09_06.vcxproj -> D:\Laura_Education\С++troubles\lesson7_09_06\x64\Debug\lesson7_09_06.exe
